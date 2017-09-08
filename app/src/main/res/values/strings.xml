@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">My Application test</string>
+    <string name="app_name">Test</string>
     <string name="edit_message">Enter a meassage</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">Next</string>
 
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
